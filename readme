@@ -1,0 +1,5 @@
+Hi! Welcome to this terrible library:
+
+Currently it is nonfunctional. Rephrased, the neurons, layers, and forward prop all work. Back prop is nonexistant. 
+
+An example code of utilization is given in temp.cpp
