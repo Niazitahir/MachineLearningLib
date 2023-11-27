@@ -3,3 +3,9 @@ Hi! Welcome to this terrible library:
 Currently it is nonfunctional. Rephrased, the neurons, layers, and forward prop all work. Back prop is nonexistant. 
 
 An example code of utilization is given in temp.cpp
+
+List = all layers, all neurons. Entire framework
+
+Layer = individual layer. Includes vector of neurons, each with a row and col id.
+
+Neuron = includes id of row and col. 
